@@ -1,12 +1,12 @@
 -------------------------------------------------------------------
--- This script will create a sample database "TechCorpDB" in        --
+-- This script will create a sample database "TechCorpDB-local" in        --
 -- MS SQL Server and will populate sample data in its tables.    --
 -------------------------------------------------------------------
 
 USE master
 GO
 
-CREATE DATABASE TechCorpDB
+CREATE DATABASE TechCorpDB-local
 GO
 
 USE TechCorpDB
